@@ -3,3 +3,27 @@ host: kubestash.dev
 paths:
   /kubestash:
     repo: https://github.com/kubestash/kubestash
+  /cli:
+    repo: https://github.com/kubestash/cli
+  /docs:
+    repo: https://github.com/kubestash/docs
+  /elasticsearch:
+    repo: https://github.com/kubestash/elasticsearch
+  /installer:
+    repo: https://github.com/kubestash/installer
+  /kubedump:
+    repo: https://github.com/kubestash/kubedump
+  /mariadb:
+    repo: https://github.com/kubestash/mariadb
+  /mongodb:
+    repo: https://github.com/kubestash/mongodb
+  /mysql:
+    repo: https://github.com/kubestash/mysql
+  /percona-xtradb:
+    repo: https://github.com/kubestash/percona-xtradb
+  /postgres:
+    repo: https://github.com/kubestash/postgres
+  /redis:
+    repo: https://github.com/kubestash/redis
+  /ui-server:
+    repo: https://github.com/kubestash/ui-server
