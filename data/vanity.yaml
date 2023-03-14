@@ -3,6 +3,8 @@ host: kubestash.dev
 paths:
   /kubestash:
     repo: https://github.com/kubestash/kubestash
+  /kubedb-manifest:
+    repo: https://github.com/kubestash/kubedb-manifest
   /cli:
     repo: https://github.com/kubestash/cli
   /docs:
